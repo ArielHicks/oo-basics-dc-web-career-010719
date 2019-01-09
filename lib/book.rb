@@ -1,6 +1,6 @@
 
-attr_accessor :
-attr_reader :title
+# attr_accessor :
+# attr_reader :title
 
   class Book
   def initialize(book)
