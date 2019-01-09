@@ -11,4 +11,4 @@
 
 end
 
-# Shoe.new("Nike")
+Shoe.new("Nike")
