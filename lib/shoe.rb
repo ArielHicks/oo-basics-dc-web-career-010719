@@ -11,7 +11,6 @@
    def cobble()
      self.condition
      puts "Your shoe is as good as new!"
-     if condition =
    end
 
 end
