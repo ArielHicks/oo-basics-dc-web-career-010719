@@ -11,7 +11,7 @@
    attr_accessor :color, :size, :material, :condition
 
    def cobble()
-     self.condition == repaired
+     self.condition
    end
 
 end
