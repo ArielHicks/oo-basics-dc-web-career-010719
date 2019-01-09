@@ -11,4 +11,4 @@
 
 end
 
-# Book.new("Nike")
+# Shoe.new("Nike")
