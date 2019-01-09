@@ -11,5 +11,5 @@
 
 end
 
-Shoe.new("Nike")
+# Shoe.new("Nike")
 # brand = Shoe.new("Nike")
