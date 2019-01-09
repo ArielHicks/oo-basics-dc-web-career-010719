@@ -16,7 +16,8 @@ attr_accessor :author, :page_count, :genre
 
 end
 
-
+Book.new("And Then There Were None")
+book = Book.new("Some Title")
 # class Book
 #   attr_accessor :author, :page_count, :genre
 #
