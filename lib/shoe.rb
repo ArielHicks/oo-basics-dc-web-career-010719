@@ -7,7 +7,8 @@
      @brand = brand
    end
 
-   attr_reader :brand, :color
+   attr_reader :brand
+   attr_accessor :color
 
 end
 
