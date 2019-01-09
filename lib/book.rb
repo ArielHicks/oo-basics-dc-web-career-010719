@@ -14,8 +14,9 @@
 
 end
 
-Book.new("And Then There Were None")
-book = Book.new("Some Title")
+  Book.new("And Then There Were None")
+  book = Book.new("Some Title")
+  book.turn_page
 # class Book
 #   attr_accessor :author, :page_count, :genre
 #
