@@ -7,8 +7,8 @@
      @brand = brand
    end
 
-
+   attr_reader = brand
 
 end
 
-Book.new("Nike")
+# Book.new("Nike")
