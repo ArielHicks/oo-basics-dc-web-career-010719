@@ -12,4 +12,4 @@
 end
 
 Shoe.new("Nike")
-brand = Shoe.new("Nike")
+# brand = Shoe.new("Nike")
