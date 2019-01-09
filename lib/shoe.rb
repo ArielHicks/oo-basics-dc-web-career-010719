@@ -10,6 +10,10 @@
    attr_reader :brand
    attr_accessor :color, :size, :material, :condition
 
+   def cobble
+     @brand == repaired
+   end
+
 end
 
 # Shoe.new("Nike")
