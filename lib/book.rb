@@ -7,9 +7,7 @@ attr_accessor :author, :page_count, :genre
       @title = title
   end
 
-  def properties
 
-  end
 end
 
 
