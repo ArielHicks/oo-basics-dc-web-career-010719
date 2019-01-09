@@ -8,7 +8,7 @@
    end
 
    attr_reader :brand
-   attr_accessor :color, :size, :material, :condiiton
+   attr_accessor :color, :size, :material, :condition
 
 end
 
