@@ -13,9 +13,9 @@
    def cobble()
      self.condition
      puts "Your shoe is as good as new!"
+     if condition =
    end
 
 end
 
-# Shoe.new("Nike")
-# brand = Shoe.new("Nike")
+Shoe.new("Nike")
