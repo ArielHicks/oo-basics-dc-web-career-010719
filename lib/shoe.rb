@@ -12,7 +12,6 @@
 
    def cobble()
      self.condition == repaired
-
    end
 
 end
